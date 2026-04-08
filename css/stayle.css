@@ -368,7 +368,7 @@ width: 100%;
 }
 .social-section h2 {
     display: block;
-    text-align: left;
+    text-align: center;
     color: var(--prime);
     margin-bottom: 10px;
     font-size: 24px;
